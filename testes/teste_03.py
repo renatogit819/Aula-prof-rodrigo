@@ -111,3 +111,12 @@ if __name__ == "__main__":
     import os
     pytest.main(["-v", "-m", "acceptance", "--alluredir=allure-results"])
     os.system("allure serve allure-results")
+
+============================= test session starts ==============================
+platform linux -- Python 3.11.12, pytest-8.3.5, pluggy-1.5.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /content
+plugins: allure-pytest-2.14.2, langsmith-0.3.42, anyio-4.9.0, typeguard-4.4.2
+collecting ... collected 0 items
+
+============================ no tests ran in 0.04s =============================
