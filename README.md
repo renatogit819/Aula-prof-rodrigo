@@ -3,7 +3,7 @@ Atividade-Avaliativa-QA
 📄 Estrutura do README.md (Obrigatória)
 1. Apresentação
 Nome completo
-
+Renato Francelino Da Silva
 
 Curso e semestre
 GTI 5NA 5- SEMESTRE 
@@ -42,17 +42,18 @@ Monitoramento e controle de qualidade (uso de métricas, rastreamento de bugs, o
 
 4. Ferramentas e Sites Utilizados
 Liste todos os sites e ferramentas que você usou durante o curso, por exemplo:
-https://reqres.in/
 
+https://reqres.in/
+sim 
 
 https://colab.research.google.com/ 
-
+sim
 
 https://github.com/
-
+sim
 
 https://uptimerobot.com/
-
+sim
 
 (outros que desejar incluir)
 
@@ -66,13 +67,13 @@ Objetivo
 
 
 Qual biblioteca Python foi utilizada
-
+Google Colab
 
 Qual resultado esperado
-
+100%
 
 Link para o arquivo (ex: testes/teste_01.py)
-
+https://colab.research.google.com/drive/1u4nEp5hNE0ZixcMSjN9BpzPk4cCaSjQW?usp=sharing
 
 Exemplo de formatação:
 
@@ -87,7 +88,7 @@ Resultado esperado: Teste passa com sucesso se o status for 200
 
 
 Arquivo: testes/teste_01.py
-
+https://colab.research.google.com/drive/1u4nEp5hNE0ZixcMSjN9BpzPk4cCaSjQW?usp=sharing
 
 
 6. Conclusão Final
