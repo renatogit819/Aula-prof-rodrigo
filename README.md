@@ -346,9 +346,6 @@ class TestTable(unittest.TestCase):
             display_worked = False
         self.assertTrue(display_worked)
 
-# Executa os testes no Colab
-if __name__ == '__main__':
-    unittest.main(argv=['first-arg-is-ignored'], exit=False)
 
 Ran 13 tests in 0.011s
 
@@ -377,7 +374,7 @@ Objetivo: Verificar se o endpoint retorna status HTTP 200
 Resultado esperado: Teste passa com sucesso se o status for 200
 
 
-Arquivo: testes/teste_01.py
+Arquivo: testes/teste_01.py/teste_02.py/teste_03.py
 https://colab.research.google.com/drive/1u4nEp5hNE0ZixcMSjN9BpzPk4cCaSjQW?usp=sharing
 
 
